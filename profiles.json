@@ -5,7 +5,8 @@
     "last_key_duration": null,
     "name": ".fallenxy",
     "roles": [
-      "Member"
+      "Member",
+      "Owner"
     ],
     "banned": false
   }
