@@ -18,7 +18,7 @@
     "roles": [
       "Member"
     ],
-    "banned": true
+    "banned": false
   },
   "__next_uid": 1
 }
