@@ -9,5 +9,15 @@
       "Owner"
     ],
     "banned": false
+  },
+  "1364690540884393997": {
+    "uid": 2,
+    "subscription_type": "Basic",
+    "last_key_duration": null,
+    "name": "gandondraniy_08180",
+    "roles": [
+      "Member"
+    ],
+    "banned": false
   }
 }
